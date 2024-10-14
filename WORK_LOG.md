@@ -1,9 +1,10 @@
 Name: YOUR NAME HERE
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date   |    Time    |                                                                                                                                                                                                                                                                                                                                                                                                            Update |
+|:-------|:----------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Ot 10  | 11:30-12pm |                                                                                                                                                                                      We brainstormed as a class: coming up with ideas to represent each STR as a series of bits with two bits representing each letter (one for location and one for letter). We can use bitwise operators to move through these. |
+|        |            |                                                                                                                                                                                                                                                                The other idea was to cut the list into cutoffs -- similar to a binary approach where each cutoff becomes larger as you keep finding larger words. |
+| Oct 13 |  5:30-6pm  |  I liked the idea of the cutoff because it allows you to remove large amounts of words at one time. I considered the idea of using both ideas above: fist finding a small section of DNA(your cutoff) in the middle and then using a sort of key of numbers that represents your DNA string to look there. This will make the searching part of the cutoffs quicker for when you don't have a long string of DNA. |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
